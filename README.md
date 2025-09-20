@@ -122,7 +122,6 @@ Execute the program using runserver command.
         </tr>
     </table>
 </body>
-</html>
 ```
 
 ## OUTPUT
