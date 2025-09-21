@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:20.09.2025
+## Date:21.09.2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,17 +24,16 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+```
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Slot Time Table - YOUR NAME</title>
+    <title>Slot Time Table - SHAKTHI BALAN V</title>
 </head>
 <body>
-    <body>
-    <img src="/static/logo.png" height="100"width="540"border=6>
+    <img src="logo.png" height="150"width="400"border=6>
     <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - YOUR-NAME</h3>
+    <h3>SLOT TIME TABLE - SHAKTHI BALAN V</h3>
 
     <table border="1">
         <tr BGCOLOR="YELLOW">
@@ -110,11 +109,13 @@ Execute the program using runserver command.
         
     </table>
 </body>
-</html>+    
+</html>
+```
+
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2025-09-21 190457.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
